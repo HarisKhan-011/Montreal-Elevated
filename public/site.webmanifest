@@ -1,0 +1,17 @@
+{
+  "name": "Nachal Realty",
+  "short_name": "Nachal Realty",
+  "description": "Premium real estate services across Greater Montreal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3eb",
+  "theme_color": "#1f2522",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
